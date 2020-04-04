@@ -76,3 +76,7 @@
   input[type=submit]:hover {
     opacity: 0.8;
   }
+
+  img.planegif {
+    transform: rotate(-10deg);
+}
